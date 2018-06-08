@@ -1,0 +1,7 @@
+[package]
+name = "fs_extra_try"
+version = "0.1.0"
+authors = ["chinanf-boy <865501259@qq.com>"]
+
+[dependencies]
+fs_extra = "1.1.0"
