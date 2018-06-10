@@ -8,7 +8,7 @@ https://github.com/webdesus/fs_extra
 
 ### Example
 
-``` rs
+``` rust
 use std::path::Path;
 use std::{thread, time};
 use std::sync::mpsc::{self, TryRecvError};
